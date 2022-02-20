@@ -8,13 +8,32 @@ font-size: 20.5px;
 text-align: center;
 }
 
-.button {
+.buttongreen {
   border-bottom: 4px solid #557d68;
   display: block;
   border-radius: 10px;
-  padding: 15px;
+  padding: 20px;
   text-decoration: none;
   background: #95e6bc;
-  color: #fff;
-  margin: 15px;
+  margin: 35px;
+}
+
+.buttonred {
+  border-bottom: 4px solid #770021;
+  display: block;
+  border-radius: 10px;
+  padding: 20px;
+  text-decoration: none;
+  background: #ea7085;
+  margin: 35px;
+}
+
+.buttonblue {
+  border-bottom: 4px solid #0c6f94;
+  display: block;
+  border-radius: 10px;
+  padding: 20px;
+  text-decoration: none;
+  background: #67b8f3;
+  margin: 35px;
 }
