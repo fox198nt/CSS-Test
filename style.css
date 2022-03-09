@@ -9,22 +9,22 @@ text-align: center;
 }
 
 .buttongreen {
-  border-bottom: 4px solid #557d68;
+  border-bottom: 4px solid #057e29;
   display: block;
   border-radius: 10px;
   padding: 20px;
   text-decoration: none;
-  background: #95e6bc;
+  background: #0af55c;
   margin: 35px;
 }
 
 .buttonred {
-  border-bottom: 4px solid #770021;
+  border-bottom: 4px solid #76010a;
   display: block;
   border-radius: 10px;
   padding: 20px;
   text-decoration: none;
-  background: #ea7085;
+  background: #ff596a;
   margin: 35px;
 }
 
@@ -35,5 +35,45 @@ text-align: center;
   padding: 20px;
   text-decoration: none;
   background: #67b8f3;
+  margin: 35px;
+}
+
+.buttonyellow {
+  border-bottom: 4px solid #937c00;
+  display: block;
+  border-radius: 10px;
+  padding: 20px;
+  text-decoration: none;
+  background: #fdca1a;
+  margin: 35px;
+}
+
+.buttonpurple {
+  border-bottom: 4px solid #690f91;
+  display: block;
+  border-radius: 10px;
+  padding: 20px;
+  text-decoration: none;
+  background: #c25bee;
+  margin: 35px;
+}
+
+.buttonwhite {
+  border-bottom: 4px solid #708d87;
+  display: block;
+  border-radius: 10px;
+  padding: 20px;
+  text-decoration: none;
+  background: #f3f5f5;
+  margin: 35px;
+}
+
+.buttonpink {
+  border-bottom: 4px solid #770059;
+  display: block;
+  border-radius: 10px;
+  padding: 20px;
+  text-decoration: none;
+  background: #ff3eca;
   margin: 35px;
 }
