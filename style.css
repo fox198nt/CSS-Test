@@ -9,7 +9,7 @@ body {
 }
 
 h1, h2, h3 {
-  text-shadow: 0 3px 0 #888, 0 4px 0 #888;
+  text-shadow: 0 3px 0 #888, 0 7px 0 #888;
 }
 
 a {
@@ -24,7 +24,7 @@ button {
   padding: 20px;
   margin: 7.5px;
   font-size: 18px;
-  transition: border 2s;
+  transition: border 1s;
 }
 
 button:hover {
@@ -32,36 +32,36 @@ button:hover {
 }
 
 .btngreen {
-  border-bottom: 4px solid #057e29;
+  border-bottom: 7px solid #057e29;
   background: #0af55c;
 }
 
 .btnred {
-  border-bottom: 4px solid #76010a;
+  border-bottom: 7px solid #76010a;
   background: #ff596a;
 }
 
 .btnblue {
-  border-bottom: 4px solid #0c6f94;
+  border-bottom: 7px solid #0c6f94;
   background: #67b8f3;
 }
 
 .btnyellow {
-  border-bottom: 4px solid #937c00;
+  border-bottom: 7px solid #937c00;
   background: #fdca1a;
 }
 
 .btnpurple {
-  border-bottom: 4px solid #690f91;
+  border-bottom: 7px solid #690f91;
   background: #c25bee;
 }
 
 .btnwhite {
-  border-bottom: 4px solid #708d87;
+  border-bottom: 7px solid #708d87;
   background: #f3f5f5;
 }
 
 .btnpink {
-  border-bottom: 4px solid #770059;
+  border-bottom: 7px solid #770059;
   background: #ff3eca;
 }
