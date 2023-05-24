@@ -24,6 +24,7 @@ button {
   padding: 20px;
   margin: 7.5px;
   font-size: 18px;
+  transition: border 2s;
 }
 
 button:hover {
