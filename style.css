@@ -15,6 +15,7 @@ a {
 button {
   border: none;
   font-family: 'Zen Kaku Gothic Antique', sans-serif;
+  font-weight: 500px;
 }
 
 .btngreen {
