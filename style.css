@@ -16,61 +16,44 @@ button {
   border: none;
   font-family: 'Zen Kaku Gothic Antique', sans-serif;
   font-weight: bold;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 7.5px;
+  font-size: 20px;
 }
 
 .btngreen {
   border-bottom: 4px solid #057e29;
-  border-radius: 10px;
-  padding: 20px;
   background: #0af55c;
-  margin: 35px;
 }
 
 .btnred {
   border-bottom: 4px solid #76010a;
-  border-radius: 10px;
-  padding: 20px;
   background: #ff596a;
-  margin: 35px;
 }
 
 .btnblue {
   border-bottom: 4px solid #0c6f94;
-  border-radius: 10px;
-  padding: 20px;
   background: #67b8f3;
-  margin: 35px;
 }
 
 .btnyellow {
   border-bottom: 4px solid #937c00;
-  border-radius: 10px;
-  padding: 20px;
   background: #fdca1a;
-  margin: 35px;
 }
 
 .btnpurple {
   border-bottom: 4px solid #690f91;
-  border-radius: 10px;
-  padding: 20px;
   background: #c25bee;
-  margin: 35px;
 }
 
 .btnwhite {
   border-bottom: 4px solid #708d87;
-  border-radius: 10px;
-  padding: 20px;
   background: #f3f5f5;
-  margin: 35px;
   color: black;
 }
 
 .btnpink {
   border-bottom: 4px solid #770059;
-  border-radius: 10px;
-  padding: 20px;
   background: #ff3eca;
-  margin: 35px;
 }
